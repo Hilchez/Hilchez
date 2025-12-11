@@ -136,7 +136,7 @@ I am an ALX Backend Web Development learner with a focused interest in building 
 ## Experience & Education
 
 **[Junior Software Developer] — [BIGBRAINZ SOLUTIONS]**
-- *01/062025 - Current* — Worked on various projects.
+- *01/06/2022 - Current* — Worked on various projects.
 
 **Education**
 - BSc. Computer Science — Egerton University  — *2015*
